@@ -1,7 +1,7 @@
 ---
 title: Pedro Batista
 role: Full-stack engineer @ MotoInsight
-avatar_filename: photo5037476745757960560.jpg
+avatar_filename: avatar.png
 bio: ""
 social:
   - icon: envelope
